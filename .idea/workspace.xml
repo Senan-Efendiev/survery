@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07e53cf-4d00-4b69-bfd3-87cfb039a02f" name="Changes" comment="Senan">
-      <change afterPath="$PROJECT_DIR$/css/maket.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+    <list default="true" id="d07e53cf-4d00-4b69-bfd3-87cfb039a02f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +32,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\OpenServer\modules\php\PHP_7.1\php.exe" />
   <component name="ProjectId" id="2Qe76xTD0rpEdzsHVAAnASix6Zm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -79,6 +67,8 @@
       <updated>1685702021909</updated>
       <workItem from="1685702026845" duration="1229000" />
       <workItem from="1685703277617" duration="586000" />
+      <workItem from="1685704431013" duration="1030000" />
+      <workItem from="1685727839572" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Senan">
       <created>1685702808688</created>
@@ -101,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685702959589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Senan">
+      <created>1685704481336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685704481336</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
